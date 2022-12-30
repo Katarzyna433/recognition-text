@@ -1,0 +1,244 @@
+C:\Users\katar\Desktop\projekty\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\katar\Desktop\projekty\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\katar\Desktop\projekty\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\katar\Desktop\projekty\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\katar\Desktop\projekty\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\katar\Desktop\projekty\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\katar\Desktop\projekty\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\katar\Desktop\projekty\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\katar\Desktop\projekty\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\katar\Desktop\projekty\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\katar\Desktop\projekty\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\katar\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\katar\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\katar\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\katar\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\katar\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\katar\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\katar\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\katar\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\katar\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\katar\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\katar\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+E:\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\katar\Desktop\Nowy folder (2)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\katar\Desktop\Nowy folder (2)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\katar\Desktop\Nowy folder (2)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\katar\Desktop\Nowy folder (2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\katar\Desktop\Nowy folder (2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\katar\Desktop\Nowy folder (2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\katar\Desktop\Nowy folder (2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\katar\Desktop\Nowy folder (2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\katar\Desktop\Nowy folder (2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\katar\Desktop\Nowy folder (2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\katar\Desktop\Nowy folder (2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\katar\Desktop\licencjat\LIC\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\katar\Desktop\licencjat\LIC\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\katar\Desktop\licencjat\LIC\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\katar\Desktop\licencjat\LIC\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\katar\Desktop\licencjat\LIC\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\katar\Desktop\licencjat\LIC\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\katar\Desktop\licencjat\LIC\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\katar\Desktop\licencjat\LIC\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\katar\Desktop\licencjat\LIC\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\katar\Desktop\licencjat\LIC\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\katar\Desktop\licencjat\LIC\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\aktAnalizaLicen\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\aktAnalizaLicen\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\aktAnalizaLicen\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\aktAnalizaLicen\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\aktAnalizaLicen\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\aktAnalizaLicen\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\aktAnalizaLicen\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\aktAnalizaLicen\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+E:\aktAnalizaLicen\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\aktAnalizaLicen\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+F:\aktAnalizaLicen\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+F:\aktAnalizaLicen\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+F:\aktAnalizaLicen\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+F:\aktAnalizaLicen\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\aktAnalizaLicen\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+F:\aktAnalizaLicen\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+F:\aktAnalizaLicen\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\aktAnalizaLicen\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+F:\aktAnalizaLicen\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\aktAnalizaLicen\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\aktAnalizaLicen\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\katar\Desktop\licencjat\Nowe 1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\katar\Desktop\licencjat\Nowe 1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\katar\Desktop\licencjat\Nowe 1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\katar\Desktop\licencjat\Nowe 1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\katar\Desktop\licencjat\Nowe 1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\katar\Desktop\licencjat\Nowe 1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\katar\Desktop\licencjat\Nowe 1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\katar\Desktop\licencjat\Nowe 1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\katar\Desktop\licencjat\Nowe 1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\katar\Desktop\licencjat\Nowe 1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\katar\Desktop\licencjat\Nowe 1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\Nowe 1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\Nowe 1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\Nowe 1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\Nowe 1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\Nowe 1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\Nowe 1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\Nowe 1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\Nowe 1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+E:\Nowe 1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\Nowe 1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\katar\Desktop\Nowe 1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\katar\Desktop\Nowe 1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\katar\Desktop\Nowe 1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\katar\Desktop\Nowe 1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\katar\Desktop\Nowe 1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\katar\Desktop\Nowe 1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\katar\Desktop\Nowe 1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\katar\Desktop\Nowe 1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\katar\Desktop\Nowe 1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\katar\Desktop\Nowe 1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\katar\Desktop\Nowe 1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+G:\Nowe 1.2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+G:\Nowe 1.2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+G:\Nowe 1.2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+G:\Nowe 1.2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+G:\Nowe 1.2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+G:\Nowe 1.2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+G:\Nowe 1.2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+G:\Nowe 1.2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+G:\Nowe 1.2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\katar\Desktop\LICENCJAT\LicencjatProgram\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\katar\Desktop\LICENCJAT\LicencjatProgram\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\katar\Desktop\LICENCJAT\LicencjatProgram\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\katar\Desktop\LICENCJAT\LicencjatProgram\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\katar\Desktop\LICENCJAT\LicencjatProgram\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\katar\Desktop\LICENCJAT\LicencjatProgram\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\katar\Desktop\LICENCJAT\LicencjatProgram\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\katar\Desktop\LICENCJAT\LicencjatProgram\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\katar\Desktop\LICENCJAT\LicencjatProgram\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\katar\Desktop\LICENCJAT\LicencjatProgram\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\katar\Desktop\LICENCJAT\LicencjatProgram\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\katar\Desktop\LICENCJAT\LicencjatProgram\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\katar\Desktop\LICENCJAT\LicencjatProgram\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\katar\Desktop\LICENCJAT\LicencjatProgram\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\katar\Desktop\LICENCJAT\LicencjatProgram\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\katar\Desktop\LICENCJAT\LicencjatProgram\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\katar\Desktop\LICENCJAT\LicencjatProgram\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\katar\Desktop\LICENCJAT\LicencjatProgram\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\katar\Desktop\LICENCJAT\LicencjatProgram\WindowsFormsApp2\bin\Debug\System.Text.Json.dll
+C:\Users\katar\Desktop\LICENCJAT\LicencjatProgram\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\katar\Desktop\LICENCJAT\LicencjatProgram\WindowsFormsApp2\bin\Debug\System.ValueTuple.dll
+C:\Users\katar\Desktop\LICENCJAT\LicencjatProgram\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\katar\Desktop\LICENCJAT\LicencjatProgram\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\katar\Desktop\LICENCJAT\LicencjatProgram\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\katar\Desktop\LICENCJAT\LicencjatProgram\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\katar\Desktop\LICENCJAT\LicencjatProgram\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\katar\Desktop\LICENCJAT\LicencjatProgram\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\katar\Desktop\LICENCJAT\LicencjatProgram\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\katar\Desktop\LICENCJAT\LicencjatProgram\WindowsFormsApp2\bin\Debug\System.Text.Json.xml
+C:\Users\katar\Desktop\LICENCJAT\LicencjatProgram\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\katar\Desktop\LICENCJAT\LicencjatProgram\WindowsFormsApp2\bin\Debug\System.ValueTuple.xml
+C:\Users\katar\Desktop\LICENCJAT\LicencjatProgram\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+F:\ProjektLicencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\ProjektLicencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\ProjektLicencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\ProjektLicencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ProjektLicencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+F:\ProjektLicencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+F:\ProjektLicencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.Memory.dll
+F:\ProjektLicencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+F:\ProjektLicencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\ProjektLicencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.dll
+F:\ProjektLicencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.Text.Json.dll
+F:\ProjektLicencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\ProjektLicencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.ValueTuple.dll
+F:\ProjektLicencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\ProjektLicencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+F:\ProjektLicencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+F:\ProjektLicencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.Memory.xml
+F:\ProjektLicencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+F:\ProjektLicencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\ProjektLicencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.xml
+F:\ProjektLicencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.Text.Json.xml
+F:\ProjektLicencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\ProjektLicencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.ValueTuple.xml
+F:\ProjektLicencjat\Licencjat-19.05.2022\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+F:\ProjektLicencjat\Licencjat-19.05.2022\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+F:\ProjektLicencjat\Licencjat-19.05.2022\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+F:\ProjektLicencjat\Licencjat-19.05.2022\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\ProjektLicencjat\Licencjat-19.05.2022\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+F:\ProjektLicencjat\Licencjat-19.05.2022\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+F:\ProjektLicencjat\Licencjat-19.05.2022\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+F:\ProjektLicencjat\Licencjat-19.05.2022\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\ProjektLicencjat\Licencjat-19.05.2022\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\katar\Desktop\licencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\katar\Desktop\licencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\katar\Desktop\licencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\katar\Desktop\licencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\katar\Desktop\licencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\katar\Desktop\licencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\katar\Desktop\licencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\katar\Desktop\licencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\katar\Desktop\licencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\katar\Desktop\licencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\katar\Desktop\licencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.Text.Json.dll
+C:\Users\katar\Desktop\licencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\katar\Desktop\licencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.ValueTuple.dll
+C:\Users\katar\Desktop\licencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\katar\Desktop\licencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\katar\Desktop\licencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\katar\Desktop\licencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\katar\Desktop\licencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\katar\Desktop\licencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\katar\Desktop\licencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\katar\Desktop\licencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.Text.Json.xml
+C:\Users\katar\Desktop\licencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\katar\Desktop\licencjat\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.ValueTuple.xml
+C:\Users\katar\Desktop\licencjat\Licencjat-19.05.2022\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\katar\Desktop\licencjat\Licencjat-19.05.2022\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\katar\Desktop\licencjat\Licencjat-19.05.2022\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\katar\Desktop\licencjat\Licencjat-19.05.2022\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\katar\Desktop\licencjat\Licencjat-19.05.2022\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\katar\Desktop\licencjat\Licencjat-19.05.2022\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\katar\Desktop\licencjat\Licencjat-19.05.2022\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\katar\Desktop\licencjat\Licencjat-19.05.2022\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\katar\Desktop\licencjat\Licencjat-19.05.2022\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\katar\Desktop\Program\Licencjat-19.05.2022\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\katar\Desktop\Program\Licencjat-19.05.2022\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\katar\Desktop\Program\Licencjat-19.05.2022\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\katar\Desktop\Program\Licencjat-19.05.2022\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\katar\Desktop\Program\Licencjat-19.05.2022\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\katar\Desktop\Program\Licencjat-19.05.2022\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\katar\Desktop\Program\Licencjat-19.05.2022\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\katar\Desktop\Program\Licencjat-19.05.2022\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\katar\Desktop\Program\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\katar\Desktop\Program\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\katar\Desktop\Program\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\katar\Desktop\Program\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\katar\Desktop\Program\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\katar\Desktop\Program\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\katar\Desktop\Program\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\katar\Desktop\Program\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\katar\Desktop\Program\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\katar\Desktop\Program\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\katar\Desktop\Program\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.Text.Json.dll
+C:\Users\katar\Desktop\Program\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\katar\Desktop\Program\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.ValueTuple.dll
+C:\Users\katar\Desktop\Program\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\katar\Desktop\Program\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\katar\Desktop\Program\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\katar\Desktop\Program\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\katar\Desktop\Program\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\katar\Desktop\Program\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\katar\Desktop\Program\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\katar\Desktop\Program\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.Text.Json.xml
+C:\Users\katar\Desktop\Program\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\katar\Desktop\Program\Licencjat-19.05.2022\WindowsFormsApp2\bin\Debug\System.ValueTuple.xml
+C:\Users\katar\Desktop\Program\Licencjat-19.05.2022\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
